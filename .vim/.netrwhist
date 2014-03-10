@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/kgoudeau/blah'
+let g:netrw_dirhist_2='/Users/kgoudeau/code/working/deployments/p_au_core_gw_jp01/target/classes/configuration'
+let g:netrw_dirhist_3='/Users/kgoudeau/code/rpmbuild/projects/imc-maven3/imc-maven3-defaults/settings'
+let g:netrw_dirhist_4='/Users/kgoudeau/blah'
+let g:netrw_dirhist_5='/Users/kgoudeau/code/deployment-template/src/main/template/container/skel/services'
